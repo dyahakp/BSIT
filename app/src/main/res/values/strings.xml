@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BSIT</string>
+    <string name="available_title">Available</string>
+    <string name="not_available_title">Not Available</string>
+</resources>
